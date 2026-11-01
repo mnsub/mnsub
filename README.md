@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="MNSUB" width="100%"/>
 </p>
 
-## Hi, I'm Mohammed 👋
+## Hi, I'm MNS 👋
 
 I build fast, serverless web platforms on **Cloudflare**, algorithmic trading systems on **MetaTrader 5**, and automation that takes repetitive work off the table.
 
