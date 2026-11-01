@@ -4,7 +4,7 @@
 
 ## Hi, I'm MNS 👋
 
-I build fast, serverless web platforms on **Cloudflare**, algorithmic trading systems on **MetaTrader 5**, and automation that takes repetitive work off the table.
+I build fast, serverless web platforms on **Cloudflare**, algorithmic trading systems for **CFDs and futures**, and automation that takes repetitive work off the table.
 
 My rule is simple: **data decides.** Every idea gets measured, and if it doesn't hold up, it gets cut.
 
@@ -24,7 +24,7 @@ My rule is simple: **data decides.** Every idea gets measured, and if it doesn't
 <td width="33%" valign="top">
 
 **📈 Algo Trading Lab**<br/>
-<sub>MQL5 Expert Advisors for gold and indices. Strict filter: real-tick backtests, PF ≥ 1.2 across separate market regimes, and no martingale or grid recovery.</sub>
+<sub><b>CFDs:</b> MQL5 Expert Advisors for gold and indices on MT5.<br/><b>Futures:</b> order-flow strategies for CME micros (MNQ · MES · MGC), tested on Databento data and NinjaTrader 8.<br/>Strict filter: real-tick backtests, PF ≥ 1.2 across separate market regimes, no martingale or grid.</sub>
 
 </td>
 <td width="33%" valign="top">
